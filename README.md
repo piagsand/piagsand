@@ -21,49 +21,42 @@ Aujourd’hui, je conçois des projets numériques, j’expérimente les possibi
 
 ## 🛠️ Mes projets et expérimentations
 
-J'aime passer de l'idée à la réalisation, expérimenter de nouveaux outils et partager ce que j'apprends.
+J'aime concevoir des solutions, expérimenter de nouvelles approches et partager ce que j'apprends. Voici quelques projets qui illustrent cette démarche.
 
-### 🎴 EuroCards — Développement d'application
+### 🧠 Penser → Challenger → Tester → Agir
+**Raisonnement critique et intelligence artificielle**
 
-Un projet de développement qui illustre mon intérêt pour la conception d'applications et la création d'outils numériques.
+Un protocole expérimental que j'ai conçu pour structurer le raisonnement assisté par les modèles de langage (LLM).
+
+L'idée : ne pas simplement obtenir des réponses convaincantes, mais apprendre à questionner les hypothèses, confronter les explications et vérifier les conclusions.
+
+Le projet propose des commandes de prompting, des workflows et des exemples pratiques pour :
+- Distinguer les faits des hypothèses.
+- Challenger les raisonnements et explorer des alternatives.
+- Transformer les idées en tests concrets.
+- Identifier quand il est préférable d'arrêter l'analyse pour passer à l'action.
+
+**💡 Principe :** Cohérence ≠ preuve.
+
+🔗 [Découvrir le projet sur GitHub](https://github.com/piagsand/penser-challenger-tester-agir)
+
+*Version expérimentale — méthodes en cours d'évaluation.*
+
+### 🎴 EuroCards
+**Développement d'application**
+
+Un projet personnel de développement d'application, illustrant mon intérêt pour la conception de solutions numériques concrètes.
 
 🔗 [Découvrir EuroCards](https://github.com/piagsand/EuroCards)
 
-### 🤖 Claude AI — Astuces, méthodes et workflows
+### 📚 LLM-Wiki
+**Intelligence artificielle et gestion des connaissances**
 
-J'explore les possibilités de Claude et de Claude Code pour améliorer ma manière de travailler avec l'intelligence artificielle.
+Un projet en cours de développement visant à transformer des documents et des notes en une base de connaissances structurée et interconnectée grâce aux modèles de langage.
 
-Mes expérimentations portent notamment sur :
+L'objectif est de faciliter l'organisation, la recherche et la mise en relation des connaissances, tout en préservant la fidélité aux sources.
 
-- **Les instructions personnalisées** pour adapter l'IA aux besoins et aux contextes.
-
-- **Les workflows** pour structurer et simplifier les tâches.
-
-- **Les agents IA** pour accompagner des processus de développement et d'organisation.
-
-- **Le partage de bonnes pratiques** issues de mes expérimentations.
-
-🎯 **Mon objectif :** rendre l'IA plus accessible, pratique et réellement utile au quotidien.
-
-### 🧠 LLM-Wiki — Projet en développement
-
-Un projet personnel de gestion des connaissances assistée par intelligence artificielle.
-
-LLM-Wiki vise à transformer des documents et des notes en une base de connaissances structurée et interconnectée.
-
-Le projet explore notamment :
-
-- L'analyse de documents à l'aide de modèles de langage.
-
-- L'organisation des connaissances en Markdown.
-
-- La création de liens entre concepts, idées et sources.
-
-- L'automatisation de certaines tâches avec validation humaine.
-
-🎯 **Mon objectif :** faciliter l'organisation, la recherche et la mise en relation des connaissances.
-
-*Projet expérimental en cours de développement et de validation.* encore en cours de développement ou de validation.*
+*Projet en développement — dépôt actuellement privé.*
 
 ## 🌱 Ce qui m'anime
 
