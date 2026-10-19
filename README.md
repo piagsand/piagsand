@@ -8,7 +8,7 @@ J'aime explorer les possibilités du numérique, apprendre et concevoir des solu
 
 Mon parcours associe **développement informatique, communication, gestion de projets et accompagnement humain**. Cette diversité nourrit mon approche : comprendre les besoins, imaginer des solutions et les concrétiser.
 
-Aujourd'hui, je développe mes compétences et mes projets autour de **l'intelligence artificielle, de l'automatisation et de la gestion des connaissances**, avec une attention particulière à leur utilité au quotidien.
+Aujourd’hui, je conçois des projets numériques, j’expérimente les possibilités de l’intelligence artificielle et je partage des méthodes pour rendre ces technologies plus accessibles et utiles au quotidien.
 
 ## 🚀 Mes domaines de compétences et d'intérêt
 
