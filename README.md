@@ -42,12 +42,22 @@ Le projet propose des commandes de prompting, des workflows et des exemples prat
 
 *Version expérimentale — méthodes en cours d'évaluation.*
 
-### 🎴 EuroCards
-**Développement d'application**
+### 🎴 EuroCards — Une application née d'un besoin concret
+**Développement web · Gestion de collection · Projet familial**
 
-Un projet personnel de développement d'application, illustrant mon intérêt pour la conception de solutions numériques concrètes.
+EuroCards est un projet personnel que j'ai imaginé et développé pour répondre à un besoin très concret : **aider mon fils à organiser et gérer sa collection de cartes**.
 
-🔗 [Découvrir EuroCards](https://github.com/piagsand/EuroCards)
+Plutôt que de chercher une solution existante, j'ai choisi de concevoir une application adaptée à ses besoins.
+
+Ce projet illustre ma manière d'aborder le développement numérique :
+- 👂 **Comprendre un besoin réel** avant de chercher une solution.
+- 💡 **Imaginer un outil adapté** à son utilisateur.
+- 💻 **Transformer une idée en application concrète**.
+- ❤️ **Mettre la technologie au service du quotidien**, même à petite échelle.
+
+**🎯 Mon objectif :** créer un outil simple et utile, pensé avant tout pour la personne qui l'utilise.
+
+🔗 [Découvrir EuroCards sur GitHub](https://github.com/piagsand/EuroCards)
 
 ### 📚 LLM-Wiki
 **Intelligence artificielle et gestion des connaissances**
