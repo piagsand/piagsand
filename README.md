@@ -19,25 +19,51 @@ Aujourd'hui, je développe mes compétences et mes projets autour de **l'intelli
 - 💬 **Communication & transmission** — Rédaction, vulgarisation et partage des connaissances
 - 🤝 **Accompagnement humain** — Écoute, pédagogie et compréhension des besoins
 
-## 🛠️ Mes projets
+## 🛠️ Mes projets et expérimentations
+
+J'aime passer de l'idée à la réalisation, expérimenter de nouveaux outils et partager ce que j'apprends.
+
+### 🎴 EuroCards — Développement d'application
+
+Un projet de développement qui illustre mon intérêt pour la conception d'applications et la création d'outils numériques.
+
+🔗 [Découvrir EuroCards](https://github.com/piagsand/EuroCards)
+
+### 🤖 Claude AI — Astuces, méthodes et workflows
+
+J'explore les possibilités de Claude et de Claude Code pour améliorer ma manière de travailler avec l'intelligence artificielle.
+
+Mes expérimentations portent notamment sur :
+
+- **Les instructions personnalisées** pour adapter l'IA aux besoins et aux contextes.
+
+- **Les workflows** pour structurer et simplifier les tâches.
+
+- **Les agents IA** pour accompagner des processus de développement et d'organisation.
+
+- **Le partage de bonnes pratiques** issues de mes expérimentations.
+
+🎯 **Mon objectif :** rendre l'IA plus accessible, pratique et réellement utile au quotidien.
 
 ### 🧠 LLM-Wiki — Projet en développement
 
-**Explorer une nouvelle manière d'organiser et d'exploiter ses connaissances grâce à l'intelligence artificielle.**
+Un projet personnel de gestion des connaissances assistée par intelligence artificielle.
 
-LLM-Wiki est un projet personnel en cours de développement. Il vise à transformer des documents et des notes en une base de connaissances structurée, interconnectée et progressivement enrichie.
+LLM-Wiki vise à transformer des documents et des notes en une base de connaissances structurée et interconnectée.
 
 Le projet explore notamment :
 
-- **L'analyse de documents** à l'aide de modèles de langage (LLM).
-- **L'organisation des connaissances** sous forme de pages Markdown interconnectées.
-- **La création de liens** entre concepts, idées et sources.
-- **L'interaction avec l'IA** pour faciliter la recherche et l'exploitation des informations.
-- **L'automatisation de certaines tâches**, tout en conservant un contrôle humain sur les contenus.
+- L'analyse de documents à l'aide de modèles de langage.
 
-🎯 **L'objectif :** développer un outil qui aide à retrouver, comprendre et relier ses connaissances, sans perdre la richesse des documents d'origine.
+- L'organisation des connaissances en Markdown.
 
-*Projet expérimental en évolution. Certaines fonctionnalités sont encore en cours de développement ou de validation.*
+- La création de liens entre concepts, idées et sources.
+
+- L'automatisation de certaines tâches avec validation humaine.
+
+🎯 **Mon objectif :** faciliter l'organisation, la recherche et la mise en relation des connaissances.
+
+*Projet expérimental en cours de développement et de validation.* encore en cours de développement ou de validation.*
 
 ## 🌱 Ce qui m'anime
 
